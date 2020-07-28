@@ -55,6 +55,13 @@
             "codename": "ysl",
             "maintainer": "Amith Acharya",
             "image": "https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1528356164.70662753.jpg"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro",
+            "brand": "Xiaomi",
+            "codename": "begonia",
+            "maintainer": "Itachi Uchiha",
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/begonia.png"
         }
     ]
 }
